@@ -1,2 +1,3 @@
 Some Text
-A change
+A change (this was submitted via edit using the web browser interface to GitHub)
+Another change, this time from the from the Desktop.
